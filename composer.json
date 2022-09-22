@@ -1,0 +1,10 @@
+{
+    "name": "optimium/test",
+    "description": "test",
+    "autoload": {
+        "psr-4": {
+            "Optimium\\Test\\": "src/"
+        }
+    },
+    "require": {}
+}
